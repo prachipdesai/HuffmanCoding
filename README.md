@@ -3,7 +3,7 @@ The Huffman Coding is done using the encoder and the decoder. A text file is enc
 
 The project is aimed at implementing Huffman encoding and decoding process using priority queues.
 
-The project is divided in three steps:
+The project is divided in following steps:
 
 1. Implementation of Huffman tree using Binary Heap, 4 way cache optimized heap and pairing heap and determining which is the best priority queue in terms of timings.
 
